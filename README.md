@@ -3,6 +3,6 @@ Just testing creating a repo
 
 ##test heading
 ### tertiary heading
-*one
-*two
-*three
+* one
+* two
+* three
